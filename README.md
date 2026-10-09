@@ -2,26 +2,9 @@
 
 **`Estudante de Ciência da Computação`**
 
-Olá! Sou Marcelo Caldas, estudante de Ciência da Computação na Universidade Católica de Pernambuco (UNICAP), atualmente no 5º período. Tenho grande interesse em desenvolvimento de software, inteligência artificial, análise de dados e novas tecnologias. Estou em busca de um estágio para aplicar meus conhecimentos acadêmicos, gerar valor para a empresa e ganhar experiência prática na área. Também estou estudando inglês (nível intermediário).
+Olá! Sou Marcelo Caldas, estudante de Ciência da Computação na Universidade Católica de Pernambuco (UNICAP), atualmente no 5º período. Tenho grande interesse em desenvolvimento de software, inteligência artificial, análise de dados e novas tecnologias. Estou em busca de um estágio para aplicar meus conhecimentos acadêmicos, gerar valor para a empresa e ganhar experiência prática na área.
 
 📍 Recife, PE &nbsp;|&nbsp; 📫 marcelo0709caldas@gmail.com
-
-<p align="left">
-    <a href="https://github.com/Marcelo07092005?tab=followers">
-        <img
-            alt="Seguidores"
-            title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/Marcelo07092005?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/Marcelo07092005?tab=repositories&sort=stargazers">
-        <img
-            alt="Total de estrelas"
-            title="Total de estrelas GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/Marcelo07092005?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-</p>
 
 ---
 
@@ -61,13 +44,13 @@ Olá! Sou Marcelo Caldas, estudante de Ciência da Computação na Universidade 
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=Marcelo07092005&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=MarcelocAraujo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
   <img
     align="left"
     alt="Top Languages"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo07092005&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelocAraujo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
