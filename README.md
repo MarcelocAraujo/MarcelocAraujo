@@ -4,7 +4,7 @@
 
 Olá! Sou Marcelo Caldas, estudante de Ciência da Computação na Universidade Católica de Pernambuco (UNICAP), atualmente no 5º período. Tenho grande interesse em desenvolvimento de software, inteligência artificial, análise de dados e novas tecnologias. Estou em busca de um estágio para aplicar meus conhecimentos acadêmicos, gerar valor para a empresa e ganhar experiência prática na área.
 
-📍 Recife, PE &nbsp;|&nbsp; 📫 marcelo0709caldas@gmail.com
+📍 Recife, PE &nbsp;|&nbsp; 📫 marcelo0709caldas@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-caldas-de-ara%C3%BAjo-filho-4aa669394/)
 
 ---
 
